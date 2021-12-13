@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u4527_img {
+#u4504_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1917px;
   height:960px;
 }
-#u4527 {
+#u4504 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,16 +33,55 @@
   height:960px;
   display:flex;
 }
-#u4527 .text {
+#u4504 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u4527_text {
+#u4504_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
+}
+#u4505 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:69px;
+  width:1917px;
+  height:170px;
+}
+#u4505_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1917px;
+  height:170px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:url('../../images/车管之星_2/u4505_state0.png');
+  background-position:right top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1390px 400px;
+  background-origin:border-box;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4505_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
 }
